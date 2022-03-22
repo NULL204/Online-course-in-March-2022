@@ -6,8 +6,12 @@
 
 ### 下载地址：
 
-### PotPlayer：32位：https://t1.daumcdn.net/potplayer/PotPlayer/Version/Latest/PotPlayerSetup.exe
+### PotPlayer：
 
-###            64位：https://t1.daumcdn.net/potplayer/PotPlayer/Version/Latest/PotPlayerSetup64.exe
+#### 32位：https://t1.daumcdn.net/potplayer/PotPlayer/Version/Latest/PotPlayerSetup.exe
 
-### LAVFilters：https://github.com/Nevcairiel/LAVFilters/releases
+#### 64位：https://t1.daumcdn.net/potplayer/PotPlayer/Version/Latest/PotPlayerSetup64.exe
+
+### LAVFilters：
+
+#### GitHub：https://github.com/Nevcairiel/LAVFilters/releases
